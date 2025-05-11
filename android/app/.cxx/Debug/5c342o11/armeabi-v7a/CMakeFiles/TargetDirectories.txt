@@ -1,0 +1,2 @@
+C:/Users/Mossa/Bureau/prjct_detection_Cancer-main/android/app/.cxx/Debug/5c342o11/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Mossa/Bureau/prjct_detection_Cancer-main/android/app/.cxx/Debug/5c342o11/armeabi-v7a/CMakeFiles/rebuild_cache.dir

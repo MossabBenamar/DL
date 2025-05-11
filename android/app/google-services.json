@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679566474357",
+    "project_id": "skin-cancer-detection-85d0a",
+    "storage_bucket": "skin-cancer-detection-85d0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679566474357:android:79c2afecf8a9912877cc3c",
+        "android_client_info": {
+          "package_name": "com.example.cancer_diagno_test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCempjidGJvcP289td7o8T13UP1TKHb8RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

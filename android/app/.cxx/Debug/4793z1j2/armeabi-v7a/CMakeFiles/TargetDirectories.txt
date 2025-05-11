@@ -1,0 +1,2 @@
+C:/Users/Mossa/Bureau/DL/app/skin-cancer-detector/DeepLearning-main/android/app/.cxx/Debug/4793z1j2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Mossa/Bureau/DL/app/skin-cancer-detector/DeepLearning-main/android/app/.cxx/Debug/4793z1j2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

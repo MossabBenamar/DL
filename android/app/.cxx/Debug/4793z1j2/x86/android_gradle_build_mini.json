@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Mossa\\Flutter\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Mossa\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Mossa\\Bureau\\DL\\app\\skin-cancer-detector\\DeepLearning-main\\android\\app\\.cxx\\Debug\\4793z1j2\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Mossa\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Mossa\\Bureau\\DL\\app\\skin-cancer-detector\\DeepLearning-main\\android\\app\\.cxx\\Debug\\4793z1j2\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
